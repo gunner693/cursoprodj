@@ -1,9 +1,0 @@
-codigo desde la pc local
-
-
-
-cambios desde local al mismo archivo
-
-
-cambios que se estan haciendo desde repositorio al mismo archivo
-
